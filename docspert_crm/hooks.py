@@ -10,6 +10,8 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+fixtures = ['DocType']
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/docspert_crm/css/docspert_crm.css"
 # app_include_js = "/assets/docspert_crm/js/docspert_crm.js"
