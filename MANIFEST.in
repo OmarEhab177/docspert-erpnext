@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include docspert_crm *.css
+recursive-include docspert_crm *.csv
+recursive-include docspert_crm *.html
+recursive-include docspert_crm *.ico
+recursive-include docspert_crm *.js
+recursive-include docspert_crm *.json
+recursive-include docspert_crm *.md
+recursive-include docspert_crm *.png
+recursive-include docspert_crm *.py
+recursive-include docspert_crm *.svg
+recursive-include docspert_crm *.txt
+recursive-exclude docspert_crm *.pyc
